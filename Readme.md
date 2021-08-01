@@ -41,7 +41,7 @@ Test Driven Development (TDD) utilizando PHP como base.
 
 ---
 
->This project was developed with ❤️ by **[@RenatoAugusto](https://www.linkedin.com/in/renato-augusto-php/)**<br>
+>This project was developed with ❤️ by **[@RenatoAugusto](https://www.linkedin.com/in/renato-augusto-php/)
 If it helped you, give it ⭐, it will help me too 😉
 
 ---
